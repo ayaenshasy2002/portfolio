@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.circle{
+    width: 100px;
+    height: 100px;
+    background-color: #282747;
+    margin-top: -20px;
+    margin-left: -20px;
+    border-radius: 50%;
+}
+body{
+     font-family: Verdana,Tahoma, sans-serif, 'Arial Narrow Bold', sans-serif;
+     color: #282747;
+     background-color: #F0F0F0;
+margin: 0px;
+
+}
+ul{
+    list-style-type: none;
+    color: #282747;
+}
+a {
+  text-decoration: none;
+  color: #282747;
+}
+.nav li{
+    display: inline;
+    margin-left: 50px;
+    list-style-type: none;
+    color: #282747;
+
+
+}
+.portfolio{
+     margin-right: 50%;
+     color: #282747;
+     font-size: 20px;
+
+}
+.nav{
+    margin-top: -40px;
+}
+.header  {
+    display: flex;
+    margin-top: 30px;
+}
+.user{
+   margin-left: 120px; 
+   margin-top: 38px;
+}
+.btn-portfolio{
+    background-color: #282747;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: #282747  ;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.name{
+    margin-top: 70px;
+    margin-left: 100px;
+}
+#about{
+    text-align: center;
+    background-color: white;
+    padding: 50px;
+}
+.about-details{
+     display: flex;
+     margin-top: -50px; 
+     background-color: white;
+
+}
+.details{
+    margin-top: 20px;
+    margin-left: 10%;
+}
+.user-about{
+    margin-left: 80px;
+    width: 400px;
+}
+.circle2{
+        width: 50px;
+    height: 50px;
+    background-color: #fcc602;
+    margin-top: -25px;
+    border-radius: 50%;
+    float: right;
+}
+#skills{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.website{
+    width: 70px;
+    height: 70px;
+}
+.my-skills{
+    margin-left: 100px;
+}
+.my-skills h4{
+    margin-left: 20px;
+}
+.my-skills p{
+    margin-left: -20px;
+}
+.my-skills img{
+    margin-left: 50px;
+}
+#Contact{
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#Contact img{
+      width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border-color: #282747;
+    border-width: 2px;
+    border-style: solid;
+    margin-left: -30px;
+}
+#Contact .my-photo{
+      width: 187px;
+    height: 187px;
+    margin-top: 20px;
+    border-radius: 50%;
+    border-color: #FCC602;
+    border-width: 2px;
+    border-style: solid;
+}
+
+#Contact h3{
+ color: #FCC602;
+
+}
+.my-Contact{
+    margin-left: 180px;
+}
+.my-Contact h4{
+    color: #FCC602;
+    margin-left: -20px;
+}
+.footer ul{
+    display: flex;
+}
+.footer ul li{
+    margin-left: 50px;
+    display: inline;
+}
+.circle3{
+    width: 100px;
+    height: 100px;
+    background-color: #FCC602;
+    margin-top: -80px;
+    margin-left: -50px;
+    border-radius: 50%;
+    float: left;
+}
